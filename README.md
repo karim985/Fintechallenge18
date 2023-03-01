@@ -48,7 +48,7 @@ Test the blockchain validation process by using the web interface.
 
 * screenshot of the Streamlit application page, which should indicate the validity of the blockchain
 
-![](https://github.com/karim985/Fintechallenge18/tree/main/images%20#:~:text=2%20minutes%20ago-,pic2.png,-updating%20ReadMe)
+![](https://github.com/karim985/Fintechallenge18/blob/main/images%20/pic2.png)
 
 ## Contributing 
 
